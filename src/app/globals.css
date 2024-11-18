@@ -13,12 +13,12 @@
     --foreground: #ededed;
   }
 }
-
 body {
-  background: url('../Images/lena-sova-NcsHb_VucOo-unsplash.jpg') no-repeat center center fixed;
+  background: url('./images/ken-cheung-KonWFWUaAuk-unsplash.jpg') no-repeat center center fixed;
   min-height:600px;
   -moz-background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
   background-size: cover;
+  font-family: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
 }
